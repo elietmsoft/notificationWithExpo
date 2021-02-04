@@ -23,7 +23,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+        
+      },
+      "useNextNotificationsApi": true,
+      "package": "com.learnpro.russapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
